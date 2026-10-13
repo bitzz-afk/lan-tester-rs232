@@ -20,7 +20,7 @@ Berdasarkan dokumen perancangan sistem praktikum, alat ini dibangun menggunakan:
 - **Skema Rangkaian (Wiring):**  
   ![Skema Rangkaian](./skema_rangkaian.png)
 - **Implementasi Perangkat Keras Fisik:**  
-  ![Wujud Alat Fisik](./alat_lan tester.png)
+  ![Wujud Alat Fisik](./alat_lantester.png)
 
 ## 📊 Hasil Pengujian Laboratorium (Data Valid Laporan)
 - **Pengujian Kabel LAN (Straight):** Sukses memvalidasi bahwa seluruh Pin 1 hingga Pin 8 berstatus **Terhubung**. Interpretasi hasil menunjukkan pola seluruh LED menyala secara berurutan dan buzzer tidak berbunyi (Kabel BAIK).
