@@ -16,7 +16,6 @@ Berdasarkan dokumen perancangan sistem praktikum, alat ini dibangun menggunakan:
 - **Skema Rangkaian:** Jalur pengabelan (*wiring*) dipetakan dari pin digital Arduino Mega menuju konektor uji fisik.
 
 ### 📷 Dokumentasi Rangkaian & Fisik Alat
-*(Pastikan Anda sudah mengunggah file gambar skema dan foto alat ke repositori GitHub Anda)*
 - **Skema Rangkaian (Wiring):**  
   ![Skema Rangkaian](./skema_rangkaian.png)
 - **Implementasi Perangkat Keras Fisik:**  
