@@ -21,6 +21,12 @@ Berdasarkan dokumen perancangan sistem praktikum, alat ini dibangun menggunakan:
 - **Implementasi Perangkat Keras Fisik:**  
   ![Wujud Alat Fisik](./alat_lantester.png)
 
+## 📺 Video Demo Dokumentasi Perangkat
+Karena alat fisik telah dikumpulkan sebagai syarat kelulusan praktikum, berikut adalah dokumentasi rekaman operasional alat saat berhasil melakukan pemindaian fungsional jalur pin-to-pin pada kabel jaringan:
+
+👉 **[Tonton Video Demo Fungsional Alat LAN Tester & RS232](https://drive.google.com/file/d/1OBN-VfAwXUKptU_BIor755ms70MkT4A-/view?usp=drive_link)**
+
+
 ## 📊 Hasil Pengujian Laboratorium (Data Valid Laporan)
 - **Pengujian Kabel LAN (Straight):** Sukses memvalidasi bahwa seluruh Pin 1 hingga Pin 8 berstatus **Terhubung**. Interpretasi hasil menunjukkan pola seluruh LED menyala secara berurutan dan buzzer tidak berbunyi (Kabel BAIK).
 - **Pengujian Kabel Serial RS-232:** Sukses memetakan hubungan pin fungsional secara silang (Pin 2 ke Pin 3, Pin 3 ke Pin 2, Pin 4 ke Pin 6, dst.) secara akurat sesuai standar komunikasi serial.
